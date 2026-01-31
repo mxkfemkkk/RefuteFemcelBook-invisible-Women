@@ -1,4 +1,4 @@
-# 我反驳并批判了《看不见的女性》一书中的部分论点
+我反驳并批判了《看不见的女性》一书中的部分论点
 
 本人只是粗略的找到了几个明显的事实性错误，如果还有问题，请到[Issues](https://github.com/mxkfemkkk/RefuteFemcelBook-invisible-Women/issues)，或者是到[我的B站主页](https://space.bilibili.com/134468753)和[我的知乎主页](https://www.zhihu.com/people/43fxma)找我留言，感谢。
 
@@ -36,7 +36,9 @@
 
 ### 反驳1：关于男女厕所分配问题
 
-> 但是，即使男女厕所的隔间数相等，这个问题也不会得到解决，因为女性的如厕时间是男性的2.3倍。老年人和残障人士中，女性占大多数，而这两个群体上厕所的时间往往更长。女性也更有可能要陪同儿童、残疾人和老年人上厕所。此外，在任意时间段，还有20%至25%的育龄妇女正处在月经期，因此需要更换卫生棉条或卫生巾。——摘自第一部分第二章《有小便池的中性厕所》
+> 但是，即使男女厕所的隔间数相等，这个问题也不会得到解决，因为女性的如厕时间是男性的2.3倍。老年人和残障人士中，女性占大多数，而这两个群体上厕所的时间往往更长。女性也更有可能要陪同儿童、残疾人和老年人上厕所。此外，在任意时间段，还有20%至25%的育龄妇女正处在月经期，因此需要更换卫生棉条或卫生巾。
+>
+> ——摘自第一部分第二章《有小便池的中性厕所》
 
 - **疑点1**：老年人和残障人士中女性占大多数？
 
@@ -60,7 +62,9 @@
 
 **关键问题02**：多国数据拼凑，比如
 
-> “……**孟买**的500万女性中有一半以上没有室内厕所”、“在田间小便的**印度**女性面临非伴侣性暴力的可能性是使用家庭厕所的女性的2倍”、“**加拿大和英国**的研究也表明，……”——摘自第一部分第二章《有小便池的中性厕所》
+> “……**孟买**的500万女性中有一半以上没有室内厕所”、“在田间小便的**印度**女性面临非伴侣性暴力的可能性是使用家庭厕所的女性的2倍”、“**加拿大和英国**的研究也表明，……”
+>
+> ——摘自第一部分第二章《有小便池的中性厕所》
 
 多国数据放在一块讨论本来就没多大意义，娱乐就好
 
@@ -70,9 +74,23 @@
 
 **批判**：随口胡说谁都会，随口胡说的玩意儿还能被女性奉为圭桌是我没想到的。
 
+
+
+**关键问题4**：不考虑实际需求
+
+考虑厕所坑位数量，还要根据该场所男性较多还是女性较多。就比如说商场这样女性偏多的地方，公厕比例大于1:2就正常。
+
+如果是明显男多女少的工地，厕所坑位则就不应该是1:2，而是2:3甚至更接近
+
+**批判**：不考虑实际需求，只会根据所谓的如厕时间纸上谈兵
+
+
+
 ### 反驳2：关于女性遭受性侵犯的问题
 
-> 城市规划没有考虑到女性遭受性侵犯的风险，这显然是对女性平等享有公共空间权利的侵犯，规划者以众多缺乏性别意识的设计将女性排除在外，卫生设施的不足只是其中之一。——摘自第一部分第二章《有小便池的中性厕所》
+> 城市规划没有考虑到女性遭受性侵犯的风险，这显然是对女性平等享有公共空间权利的侵犯，规划者以众多缺乏性别意识的设计将女性排除在外，卫生设施的不足只是其中之一。
+>
+> ——摘自第一部分第二章《有小便池的中性厕所》
 
 ~~*这里作者似乎已经忘记了这一章节的标题*~~
 
@@ -185,7 +203,9 @@
 
 ### 反驳4 劳动时间
 
-![image-20260131034818357](./assets/image-20260131034818357.png)
+> 《经济学人》并不是唯一一个在讨论“工作"时忘记了女性无偿工作量的杂志。当像《公司》一类商业杂志发表深度报道，声称“科学"告诉我们，“你"每周的工作时间不应超过40小时，或者当《卫报》郑重告知，如果你每周工作超过39个小时，“你的工作可能会要了你的命”，他们的告知对象并不是女性，因为对女性来说，这里压根没有“如果”。女性的工作量远超这个数字，并且长年如此。而且这种情况确实正在要她们的命。
+>
+> ——摘自第二部分第三章《漫长的星期五》
 
 这里我们拿国家统计局调查公报的数据换算一下[^9]
 
@@ -204,7 +224,9 @@
 
 ### 反驳5：钢琴适合男人？
 
-![image-20260131040209825](./assets/image-20260131040209825.png)
+> 所谓的性别中立产品到头来只“适合所有男人”，这种做法对女性不利。女性的平均手长在18到20厘米之间，[2]这使得标准的48英寸（约为121厘米）钢琴键盘成了一个挑战。标准键盘上的八度音阶为18.8厘米宽，一项研究发现，这种键盘对87%的成年女性钢琴家不利。[3]与此同时，2015年的一项研究将473名成年钢琴家的手长与他们的“受欢迎程度”进行了比较，结果发现，12名被认为具有国际知名度的钢琴家的手长都在22厘米以上。[4]只有2名女性进入这一崇高的群体，其中一名手长23厘米，另一名24厘米。
+>
+> ——第三部分 设计第8章 适合所有人的尺寸
 
 这一点也是我个人认为最离谱的一段（甚至都不用我找数据就能反驳）
 
@@ -212,7 +234,7 @@
 
 **但钢琴没多大变化，男性手长和女性手长在变化啊！**
 
-**这意味着，如果钢琴是按照男性体格设计的，那么到了今天，更适合弹钢琴的体格应该是女性而非男性。**
+
 
 此时便有两种可能
 
@@ -221,19 +243,39 @@
 
 
 
-**各位你们觉得哪个更可信，我不必多言**
+最后放几个钢琴家的实例证明吧：
+
+> 巴伦的手为8~9度，大约17厘米左右。斯克里亚宾的手**只有八度**（14.5—16.7cm之间），远远低于女性平均手长18-20cm。
 
 
 
-> 而且巴伦的手据说比女的还小。
+这边再来一个CDC（美国疾控中心）1950-2001年的变化数据[^15] (《Relative change in hand size over time: implications for glove-size schemes and labeling for end-users.》2003.6 p1)
+
+![image-20260201013028164](./assets/image-20260201013028164.png)
+
+> 翻译：在同一时期，男性平均手长的变化估计从约7.3英寸增加到8英寸。女性也显示出相同的总体增长趋势。
+
+众所周知，1英寸=2.54cm
+
+7.3英寸=18.542cm
+
+那么，在1950年的时候，男性平均手长18.5cm，**和现在女性的平均手长差不太多（18-20cm）**
+
+由前文可知，现代钢琴结构早在1825年就已经确定。
+
+**也就是说，钢琴最开始发明的时候如果真的只给男性量身定做，那么现在的钢琴应该适合女性才对**
 
 
 
-**同时不要忘记女权主义者自己提出的理论——个体差异大于群体差异**
+为什么女性获得的荣誉不多呢，嗯……不说了
 
 
 
-**批判**：该书作者在写书的时候并没有认真查阅钢琴的发展史，只是强行的为炒作“女性看不见”随手编造出来的谣言罢了。
+**同时不要忘记女权主义者自己提出的理论——个体差异大于群体差异**——手长这些因素可以通过后期训练来避免。
+
+
+
+**批判**：该书作者在写书的时候并没有认真查阅钢琴的发展史，也没有认真考据男性的手长的变化趋势，只是强行的为炒作“女性看不见”随手编造谣言。
 
 
 
@@ -313,7 +355,7 @@
 
 体脂率越高，**就越抗热**
 
-在GBD2021的研究数据中（发表于《Global, regional, and national prevalence of adult overweight and obesity, 1990–2021, with forecasts to 2050: a forecasting study for the Global Burden of Disease Study 2021》一文中，2025.3）[^14]，指出：
+在GBD2021的研究数据中（发表于《Global, regional, and national prevalence of adult overweight and obesity, 1990–2021, with forecasts to 2050: a forecasting study for the Global Burden of Disease Study 2021》一文，2025.3）[^14]，指出：
 
 > Conversely, for obesity alone, prevalence among females was consistently higher than that of males across all super-regions. However, the gap between sexes was more substantial in low-income and middle-income regions, such as sub-Saharan Africa and south Asia. In sub-Saharan Africa, in terms of relative percentage differences, the prevalence of obesity in females was over 100% higher than that in males for those aged 25–79 years. Between the ages of 50 years and 69 years, the relative percentage differences were over 140%. The smallest difference in obesity prevalence between males and females was observed in the high-income super-region, where the relative percentage difference was below 20% under age 70 years and increased moderately to 30–40% in older ages ([appendix 1 p 48](https://pmc.ncbi.nlm.nih.gov/articles/PMC11920007/#sec1)).
 >
@@ -345,6 +387,10 @@
 
 ![image-20260131183052558](./assets/image-20260131183052558.png)
 
+**03**
+
+![image-20260201014302724](./assets/image-20260201014302724.png)
+
 
 
 
@@ -366,3 +412,4 @@
 
 [^13]:R.J. Brychta, S. McGehee, S. Huang, B.P. Leitner, C.J. Duckworth, L.A. Fletcher, K. Kim, T.M. Cassimatis, N.S. Israni, H.J. Lea, T.N. Lentz, A.E. Pierce, A. Jiang, S.R. LaMunion, R.J. Thomas, A. Ishihara, A.B. Courville, S.B. Yang, M.L. Reitman, A.M. Cypess, & K.Y. Chen, The thermoneutral zone in women takes an “arctic” shift compared to men, Proc. Natl. Acad. Sci. U.S.A. 121 (19) e2311116121, https://doi.org/10.1073/pnas.2311116121 (2024).
 [^14]:GBD 2021 Adult BMI Collaborators. “Global, regional, and national prevalence of adult overweight and obesity, 1990-2021, with forecasts to 2050: a forecasting study for the Global Burden of Disease Study 2021.” *Lancet (London, England)* vol. 405,10481 (2025): 813-838. doi:10.1016/S0140-6736(25)00355-1
+[^15]: https://stacks.cdc.gov/view/cdc/181138
