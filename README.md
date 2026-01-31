@@ -375,6 +375,44 @@
 
 
 
+### 反驳10：心血管疾病的早期研究在男性身上举行（鸣谢[Kyoukai](https://www.zhihu.com/people/karanokyoukai)）
+
+> 教科书中能否包含性别信息，取决于性别数据的可获得性，但由于女性在很大程度上被排除在医学研究之外，这方面的数据严重匮乏。大多数心血管疾病的早期研究都是在男性身上进行的，而女性的参与比例始终很低，1987年至2012年间，人们进行了31项里程碑式的充血性心力衰竭试验，而其中女性参与者仅占25%。
+>
+> ——摘自第四部分第十章《无用之药》
+
+**第一点**：参与者比例应当取决于患病率
+
+
+
+**第二点**：据我所知，这本书2017年开始撰写，犯得着用1987年的数据吗？
+
+况且，即使你有什么特殊癖好，对数据这一块喜旧厌新，你也明明可以搜到这些数据
+
+——第一篇：《柳叶刀》2003年《Effects of candesartan in patients with chronic heart failure and preserved left-ventricular ejection fraction: the CHARM-Preserved Trial》[^16]
+
+![image-20260201020950043](./assets/image-20260201020950043.png)
+
+女性参与者39.2% 、41%
+
+——第二篇：2008年《Irbesartan in patients with heart failure and preserved ejection fraction》[^17]
+
+![image-20260201021341778](./assets/image-20260201021341778.png)
+
+女性参与者60%
+
+——第三篇《Adverse effect of ventricular pacing on heart failure and atrial fibrillation among patients with normal baseline QRS duration in a clinical trial of pacemaker therapy for sinus node dysfunction》2003年[^18]
+
+![image-20260201022216157](./assets/image-20260201022216157.png)
+
+女性占比50%
+
+**为了防止有《看不见的女性》一书出版后医学界才重视这种鸡叫日升的言论，我还特意只搜集了2010年以前的文献** 。其它的我不过多赘述，感兴趣的可以自己用PubMed或者ScienceDirect搜一下CVD类疾病女性占比超过原著中所写的25%的有多少？！
+
+
+
+
+
 ## ❗ 其他雷人片段
 
 这些我就不细说了，自己看看吧
@@ -413,3 +451,6 @@
 [^13]:R.J. Brychta, S. McGehee, S. Huang, B.P. Leitner, C.J. Duckworth, L.A. Fletcher, K. Kim, T.M. Cassimatis, N.S. Israni, H.J. Lea, T.N. Lentz, A.E. Pierce, A. Jiang, S.R. LaMunion, R.J. Thomas, A. Ishihara, A.B. Courville, S.B. Yang, M.L. Reitman, A.M. Cypess, & K.Y. Chen, The thermoneutral zone in women takes an “arctic” shift compared to men, Proc. Natl. Acad. Sci. U.S.A. 121 (19) e2311116121, https://doi.org/10.1073/pnas.2311116121 (2024).
 [^14]:GBD 2021 Adult BMI Collaborators. “Global, regional, and national prevalence of adult overweight and obesity, 1990-2021, with forecasts to 2050: a forecasting study for the Global Burden of Disease Study 2021.” *Lancet (London, England)* vol. 405,10481 (2025): 813-838. doi:10.1016/S0140-6736(25)00355-1
 [^15]: https://stacks.cdc.gov/view/cdc/181138
+[^16]: Yusuf, Salim et al. “Effects of candesartan in patients with chronic heart failure and preserved left-ventricular ejection fraction: the CHARM-Preserved Trial.” *Lancet (London, England)* vol. 362,9386 (2003): 777-81. doi:10.1016/S0140-6736(03)14285-7
+[^17]: Massie, Barry M et al. “Irbesartan in patients with heart failure and preserved ejection fraction.” *The New England journal of medicine* vol. 359,23 (2008): 2456-67. doi:10.1056/NEJMoa0805450
+[^18]: Sweeney, Michael O et al. “Adverse effect of ventricular pacing on heart failure and atrial fibrillation among patients with normal baseline QRS duration in a clinical trial of pacemaker therapy for sinus node dysfunction.” *Circulation* vol. 107,23 (2003): 2932-7. doi:10.1161/01.CIR.0000072769.17295.B1
